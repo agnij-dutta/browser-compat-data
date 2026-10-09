@@ -1,5 +1,20 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.1.6](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.6)
+
+October 9, 2026
+
+### Additions
+
+- `browsers.edge.releases.158` ([#30808](https://github.com/mdn/browser-compat-data/pull/30808))
+
+### Statistics
+
+- 5 contributors have changed 8 files with 55 additions and 22 deletions in 8 commits ([`v8.1.5...v8.1.6`](https://github.com/mdn/browser-compat-data/compare/v8.1.5...v8.1.6))
+- 20,696 total features
+- 1,276 total contributors
+- 5,761 total stargazers
+
 ## [v8.1.5](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.5)
 
 October 8, 2026
